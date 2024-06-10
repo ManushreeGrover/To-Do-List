@@ -1,0 +1,56 @@
+body{
+    background-image: url(vecteezy_minimalist-style-hand-painted-liquid-background_6915122.jpg) ;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    padding: 0px;
+    margin: 0px;
+    /* position: relative; */
+}
+
+.inputt{
+    display: flex;
+}
+
+h1{
+    font-family: Pacifico;
+    font-size: 50px;
+    color: black;
+    text-shadow: 2px 2px #aaa;
+    margin-top: 10px;
+}
+
+ul{
+    margin-top: 5px;
+}
+
+li{
+    font-family: Pacifico;
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.container{
+    /* position: absolute; */
+    margin-top: 100px;
+    /* left: 50%; */
+    /* margin-left: 120px; */
+    
+}
+
+.btn{
+    font-family: Permanent Marker;
+    font-size: 20px;
+    
+}
+
+h1{
+    text-align: center;
+    padding: 0;
+}
+
+.form-control{
+    margin-top: 3em;
+    width: 50%;
+}
